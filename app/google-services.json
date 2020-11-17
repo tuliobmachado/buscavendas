@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585201098327",
+    "firebase_url": "https://buscavendas-65512.firebaseio.com",
+    "project_id": "buscavendas-65512",
+    "storage_bucket": "buscavendas-65512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585201098327:android:67565ba217ae0132314d12",
+        "android_client_info": {
+          "package_name": "br.com.informsistemas.buscavendas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585201098327-e0ofpb45t7h1ggfle53jb9vf0qhsnfje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWMm4VWVsvC90gPK4hNRstHyTemZKBCkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585201098327-e0ofpb45t7h1ggfle53jb9vf0qhsnfje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
